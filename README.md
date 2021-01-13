@@ -23,3 +23,4 @@ Xcode12からSwift UI App([[Xcode 12] アプリの起動について変更にな
 
 # 参考
 * [Core Data with SwiftUI Tutorial: Getting Started | raywenderlich.com](https://www.raywenderlich.com/9335365-core-data-with-swiftui-tutorial-getting-started)
+* [(116) Core Data Tutorial - Lesson 5: Entities and Relationships - YouTube](https://www.youtube.com/watch?v=hEz1cUZdsCE)
